@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balkezesek.Program", "Balkezesek\Balkezesek.Program.csproj", "{EDF239EA-7A74-4EB8-9E71-67414A112C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balkezesek.Model", "Balkezesek.Model\Balkezesek.Model.csproj", "{F48B59C5-9F69-4C65-A3E6-9E815C00AEB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF239EA-7A74-4EB8-9E71-67414A112C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF239EA-7A74-4EB8-9E71-67414A112C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF239EA-7A74-4EB8-9E71-67414A112C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF239EA-7A74-4EB8-9E71-67414A112C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48B59C5-9F69-4C65-A3E6-9E815C00AEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48B59C5-9F69-4C65-A3E6-9E815C00AEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48B59C5-9F69-4C65-A3E6-9E815C00AEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48B59C5-9F69-4C65-A3E6-9E815C00AEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3318501D-6F72-4396-B587-B401C90AA901}
+	EndGlobalSection
+EndGlobal
